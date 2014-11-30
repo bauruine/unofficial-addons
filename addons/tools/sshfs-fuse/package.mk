@@ -37,7 +37,7 @@ PKG_ADDON_TYPE="xbmc.python.script"
 
 PKG_AUTORECONF="no"
 
-PKG_MAINTAINER="Stefan Saraev (seo at irc.freenode.net)"
+PKG_MAINTAINER="Stefan Spühler (bauruine at irc.freenode.net)"
 
 makeinstall_target() {
   : # nop
